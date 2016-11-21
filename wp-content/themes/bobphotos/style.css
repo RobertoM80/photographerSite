@@ -1,0 +1,15 @@
+/*
+  Theme Name: bobphotos
+  Theme URI: 
+  Author: Roberto Mirabella
+  Author URI: Example phographer website
+  Version: 1.0.0
+  License:
+  License URI:
+*/
+@import url(reset.css);
+@import url(animate.css);
+@import url(bootstrap.css);
+body {
+  color: #333;
+  background-color: #fff; }
